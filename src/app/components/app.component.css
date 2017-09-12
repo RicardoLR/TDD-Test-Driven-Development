@@ -1,0 +1,22 @@
+
+
+h1, .bienvenido{
+	color: red;
+}
+
+.container.binding{
+	padding: 10px;
+	background-color: silver;
+	font-size: 1.3 em;
+}
+
+
+input[type=submit] {
+    padding:5px 15px; 
+	background-color: indigo;
+	color: white;
+	border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
